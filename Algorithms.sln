@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29324.140
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary", "Searching\Binary\Binary.csproj", "{7EE93DFE-FD67-41BB-B844-07B849473F10}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRotatedSortedArray", "Searching\SearchInRotatedSortedArray\SearchInRotatedSortedArray.csproj", "{FCA2C131-212E-43F1-8235-690C144F4A0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountNegativeNumbersInSortedMatrix", "CountNegativeNumbersInSortedMatrix\CountNegativeNumbersInSortedMatrix.csproj", "{9292E563-4353-4191-8CDD-199EABF2E755}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfTheLastKNumbers", "ProductOfTheLastKNumbers\ProductOfTheLastKNumbers.csproj", "{2A94072F-FE12-46B7-8F7D-F0C56809BE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contains Duplicate", "Contains Duplicate\Contains Duplicate.csproj", "{91EE16BE-31F2-42F0-96E6-CF612B7BACAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{FCA2C131-212E-43F1-8235-690C144F4A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA2C131-212E-43F1-8235-690C144F4A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA2C131-212E-43F1-8235-690C144F4A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9292E563-4353-4191-8CDD-199EABF2E755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9292E563-4353-4191-8CDD-199EABF2E755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9292E563-4353-4191-8CDD-199EABF2E755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9292E563-4353-4191-8CDD-199EABF2E755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A94072F-FE12-46B7-8F7D-F0C56809BE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A94072F-FE12-46B7-8F7D-F0C56809BE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A94072F-FE12-46B7-8F7D-F0C56809BE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A94072F-FE12-46B7-8F7D-F0C56809BE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EE16BE-31F2-42F0-96E6-CF612B7BACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EE16BE-31F2-42F0-96E6-CF612B7BACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EE16BE-31F2-42F0-96E6-CF612B7BACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EE16BE-31F2-42F0-96E6-CF612B7BACAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
